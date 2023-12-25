@@ -1,0 +1,12 @@
+.wrapper {
+    .container {
+        margin: auto;
+        width: var(--default-layout-width);
+        min-height: 6.25rem;
+
+        .content {
+            width: 100%;
+            min-height: 62.5rem;
+        }
+    }
+}
